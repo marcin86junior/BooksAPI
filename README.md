@@ -61,7 +61,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-### 7. Run the server
+### 8. Run test
 ```bash
 python manage.py test
 ```
