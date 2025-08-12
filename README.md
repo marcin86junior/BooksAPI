@@ -19,7 +19,7 @@
 ```bash
 mkdir Zadanie_2_BooksAPI
 cd Zadanie_2_BooksAPI
-git clone xxxx
+git clone https://github.com/marcin86junior/BooksAPI.git .
 cd Zadanie_2_BooksAPI
 python -m venv .venv
 ```
@@ -82,6 +82,5 @@ docker-compose up
 
 ## 🌐 Avaiable adresses
 - App: http://127.0.0.1:8000/
-- API: http://127.0.0.1:8000/api/
 - Swagger: http://127.0.0.1:8000/swagger/
 - Admin: http://127.0.0.1:8000/admin/
